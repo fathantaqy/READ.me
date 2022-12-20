@@ -1,1 +1,2 @@
-# READ.me
+I'm a fresh graduated from Agriculture majoring Agrotechnology at Jenderal Soedirman University. Have a basic understanding of data analysts and deeply interested in data related role such as Data Science, Data Analysis, and Machine Learning. Skilled in Statistical Data Analysis, and Research using SQL, Python, Excel tools. Able to quickly adapt to team and individual work, hard worker, problem solver, multitasking, and fast in learning and adapting to new environments.
+How to reach me https://linkedin.com/in/muhammad-fathan-muttaqy
